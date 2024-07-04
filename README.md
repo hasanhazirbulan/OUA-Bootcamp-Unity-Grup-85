@@ -34,16 +34,28 @@ Unity 85
 ---
 
 # Sprint 1
+Sprint içinde tamamlanması tahmin edilen puan total: 46/70 puan
 
-- **Sprint Notları**:
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+oyun planlaması 10 puan : 8
+oyun hikayesi 10 puan : 8
+mekanik tasarımı 10 puan : 5
+oyun tasarımı 20 puan : 15
+level design 20 puan : 10
+maplerin yapılması 150 puan : ilerde yapılacak
+enemy model ve animasyonları 40 puan : ilerde yapılacak
+enemy logici 70 puan : ilerde yapılacak
+player model ve animasyonları 40 puan : ilerde yapılacak
+player kontrolleri 30 puan: ilerde yapılacak
+cutsceneler 100 puan : ilerde yapılacak
+seslendirme 30 puan : ilerde yapılacak
+minigameler 150 puan : ilerde yapılacak
+easter eggler ve collectablelar 50 puan : ilerde yapılacak
+VFX 50 puan : ilerde yapılacak
+post process 50 puan : ilerde yapılacak
+optimizasyon 50 puan : ilerde yapılacak
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir.
 - **Sprint board update**: Sprint board screenshotları: 
