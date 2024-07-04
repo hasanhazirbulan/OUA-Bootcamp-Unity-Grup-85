@@ -38,11 +38,11 @@ Sprint içinde tamamlanması tahmin edilen puan total: 46/70 puan
 
 Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-oyun planlaması 10 puan : 8
-oyun hikayesi 10 puan : 8
-mekanik tasarımı 10 puan : 5
-oyun tasarımı 20 puan : 15
-level design 20 puan : 10
+* oyun planlaması 10 puan : 8
+* oyun hikayesi 10 puan : 8
+* mekanik tasarımı 10 puan : 5
+* oyun tasarımı 20 puan : 15
+* level design 20 puan : 10
 maplerin yapılması 150 puan : ilerde yapılacak
 enemy model ve animasyonları 40 puan : ilerde yapılacak
 enemy logici 70 puan : ilerde yapılacak
