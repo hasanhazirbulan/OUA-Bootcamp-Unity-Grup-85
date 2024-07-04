@@ -55,6 +55,7 @@ easter eggler ve collectablelar 50 puan : ilerde yapılacak
 VFX 50 puan : ilerde yapılacak
 post process 50 puan : ilerde yapılacak
 optimizasyon 50 puan : ilerde yapılacak
+
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir.
