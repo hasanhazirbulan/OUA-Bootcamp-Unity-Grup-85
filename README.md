@@ -43,20 +43,18 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 * mekanik tasarımı 10 puan : 5
 * oyun tasarımı 20 puan : 15
 * level design 20 puan : 10
-maplerin yapılması 150 puan : ilerde yapılacak
-enemy model ve animasyonları 40 puan : ilerde yapılacak
-enemy logici 70 puan : ilerde yapılacak
-player model ve animasyonları 40 puan : ilerde yapılacak
-player kontrolleri 30 puan: ilerde yapılacak
-cutsceneler 100 puan : ilerde yapılacak
-seslendirme 30 puan : ilerde yapılacak
-minigameler 150 puan : ilerde yapılacak
-easter eggler ve collectablelar 50 puan : ilerde yapılacak
-VFX 50 puan : ilerde yapılacak
-post process 50 puan : ilerde yapılacak
-optimizasyon 50 puan : ilerde yapılacak
-
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+* maplerin yapılması 150 puan : ilerde yapılacak
+* enemy model ve animasyonları 40 puan : ilerde yapılacak
+* enemy logici 70 puan : ilerde yapılacak
+* player model ve animasyonları 40 puan : ilerde yapılacak
+* player kontrolleri 30 puan: ilerde yapılacak
+* cutsceneler 100 puan : ilerde yapılacak
+* seslendirme 30 puan : ilerde yapılacak
+* minigameler 150 puan : ilerde yapılacak
+* easter eggler ve collectablelar 50 puan : ilerde yapılacak
+* VFX 50 puan : ilerde yapılacak
+* post process 50 puan : ilerde yapılacak
+* optimizasyon 50 puan : ilerde yapılacak
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir.
 - **Sprint board update**: Sprint board screenshotları: 
