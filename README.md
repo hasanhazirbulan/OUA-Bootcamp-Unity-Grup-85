@@ -60,10 +60,10 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - Miro Board: https://miro.com/welcomeonboard/RENnTTJ3UzRaMHljUmZLSUVvWGp3UlZSN05TdldmVmlyVnhXbGxRMVRiOVM4T0JPWGlreTJydVFMazNDT0JiS3wzNDU4NzY0NTkzOTE0ODQyMDg5fDI=?share_link_id=510464580316
 - **Sprint board update**: Sprint board screenshotları:
-- 
+<img width="1149" alt="Ekran Resmi 2024-07-07 17 37 04" src="https://github.com/hasanhazirbulan/OUA-Bootcamp-Unity-Grup-85/assets/115214634/64d61996-27e2-4ae9-8da9-fb28bc898040">
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![Kanban Framework](https://github.com/hasanhazirbulan/OUA-Bootcamp-Unity-Grup-85/assets/115214634/f940352c-8afa-4c9c-b6a8-2fb8f17f7883)
+
 
 
 - **Sprint Review**: 
