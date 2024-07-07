@@ -59,9 +59,11 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - Miro Board: https://miro.com/welcomeonboard/RENnTTJ3UzRaMHljUmZLSUVvWGp3UlZSN05TdldmVmlyVnhXbGxRMVRiOVM4T0JPWGlreTJydVFMazNDT0JiS3wzNDU4NzY0NTkzOTE0ODQyMDg5fDI=?share_link_id=510464580316
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+- 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![Kanban Framework](https://github.com/hasanhazirbulan/OUA-Bootcamp-Unity-Grup-85/assets/115214634/f940352c-8afa-4c9c-b6a8-2fb8f17f7883)
 
 
 - **Sprint Review**: 
