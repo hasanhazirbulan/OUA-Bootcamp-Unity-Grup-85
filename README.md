@@ -56,7 +56,9 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 340 puan
 * post process 50 puan : ilerde yapılacak
 * optimizasyon 50 puan : ilerde yapılacak
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- Miro Board: https://miro.com/welcomeonboard/RENnTTJ3UzRaMHljUmZLSUVvWGp3UlZSN05TdldmVmlyVnhXbGxRMVRiOVM4T0JPWGlreTJydVFMazNDT0JiS3wzNDU4NzY0NTkzOTE0ODQyMDg5fDI=?share_link_id=510464580316
 - **Sprint board update**: Sprint board screenshotları: 
 
 - **Ürün Durumu**: Ekran görüntüleri:
