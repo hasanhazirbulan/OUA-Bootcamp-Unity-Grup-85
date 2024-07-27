@@ -12,13 +12,13 @@ Unity 85
 - Furkan Hamza Bolat:
 -  Hasan Hazırbulan: Scrum Master 
 
-## Ürün İsmi
-Elden Path
+## Ürün İsmi : Elden Path
+ 
 
 
 
 ## Ürün Açıklaması
-
+Elden Path is a 2D isometric shooter game with a sci-fi vibe
 
 
 ## Ürün Özellikleri
