@@ -6,19 +6,19 @@ Unity 85
 
 ## Takım Elemanları
 
-- Fatma Zehra Yar:
-- Gamzenur Özyörükoğulları: 
-- Gizem Güven:
-- Furkan Hamza Bolat:
+- Fatma Zehra Yar: Product Owner
+- Gamzenur Özyörükoğulları: Developer
+- Gizem Güven: Developer
+- Furkan Hamza Bolat: Developer
 -  Hasan Hazırbulan: Scrum Master 
 
-## Ürün İsmi : Elden Path
+## Ürün İsmi : Space Wars
  
 
 
 
 ## Ürün Açıklaması
-Elden Path is a 2D isometric shooter game with a sci-fi vibe
+Space Wars shooter game with a sci-fi vibe
 
 
 ## Ürün Özellikleri
@@ -26,9 +26,6 @@ Elden Path is a 2D isometric shooter game with a sci-fi vibe
 
 ## Hedef Kitle
 
-
-
-## Product Backlog URL
 
 
 
@@ -75,12 +72,7 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Unit test'ler için ayrılan efor/saat arttırılmalı 
 
--**Diğer Notlar**:
-- N/A
 
----
-
-# Sprint 2
 
 
 ---
