@@ -12,20 +12,33 @@ Unity 85
 - Furkan Hamza Bolat: Developer
 -  Hasan Hazırbulan: Scrum Master 
 
-## Ürün İsmi : Space Wars
+## Ürün İsmi : Foxy's Space Wars
  
 
 
 
 ## Ürün Açıklaması
-Space Wars shooter game with a sci-fi vibe
-
+Embark on a thrilling interstellar journey in Space Wars!  Command your spaceship, navigate treacherous asteroid fields, and race to collect precious diamonds.  But beware – one wrong move and you'll lose a life!
 
 ## Ürün Özellikleri
 
+Intuitive Controls: Easily maneuver your spaceship with simple and responsive controls.
+Stunning Visuals: Enjoy eye-catching space vistas and sparkling diamonds.
+Exciting Challenges: Dodge asteroids and collect diamonds to achieve the highest score.
+Compete with Friends: See who's the best pilot on the leaderboard!
+
+How to Play:
+
+Diamond Dash: Fly your ship through the cosmos, scooping up as many diamonds as you can. The more you gather, the higher your score!
+
+Asteroid Alert: Watch out for deadly asteroids! A collision will cost you a life point.
+
+Three Lives to Glory: You start with three life points. Lose them all, and your space adventure comes to an end.
+
+Race to the Finish: Be the first to reach the finish line with the most diamonds to claim victory!
 
 ## Hedef Kitle
-
+Space Wars is designed for adventure seekers and space enthusiasts of all ages. It offers a fun and challenging experience for both casual and competitive gamers.
 
 
 
