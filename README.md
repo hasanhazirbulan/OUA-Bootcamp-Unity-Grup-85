@@ -105,7 +105,8 @@ Added tasks related to diamond collection and asteroid collision mechanics in Sp
 <img width="1128" alt="Ekran Resmi 2024-08-01 15 29 50" src="https://github.com/user-attachments/assets/c6462bcb-e689-4a04-a33a-01df8a1fa3ec">
 <img width="1277" alt="Ekran Resmi 2024-08-01 15 36 29" src="https://github.com/user-attachments/assets/42310cd5-5b80-4da1-a594-b48ad75e4cae">
 <img width="1273" alt="Ekran Resmi 2024-08-01 15 36 57" src="https://github.com/user-attachments/assets/75fb664c-f68e-433a-b818-c9f717f16cdb">
-![Uploading Ekran Resmi 2024-08-01 15.37.21.png…]()
+<img width="924" alt="Ekran Resmi 2024-08-01 15 38 03" src="https://github.com/user-attachments/assets/c07c1f03-b1fb-4ab6-bf0c-dc6a0d7fac6e">
+
 
 
 - **Sprint Review**: 
