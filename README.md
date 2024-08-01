@@ -44,51 +44,51 @@ Space Wars is designed for adventure seekers and space enthusiasts of all ages. 
 
 # Sprint 1
 
-Sprint Goal: Establish the project foundation, prototype core mechanics, and finalize the game's visual style.
-Estimated Points: 70/80
-Focus Areas:
-Game Engine Setup (10 points): Set up the Unity, configure project settings, and import necessary assets.
-Basic Ship Movement (20 points): Implement WASD-based movement for the spaceship, ensuring smooth and responsive controls.
-UI Mockups (10 points): Design basic UI elements (score, lives, pause menu) using wireframes or low-fidelity mockups.
-Art Style Exploration (20 points): Experiment with different visual styles for the game, creating concept art or mood boards for the spaceship, asteroids, diamonds, and backgrounds.
-Initial Level Prototyping (10 points): Create a very basic level layout to test ship movement, diamond collection, and asteroid collision mechanics.
-Additional Considerations:
-Begin researching and selecting appropriate audio assets for sound effects and music.
-Start planning the technical architecture for the game (e.g., object pooling for asteroids and diamonds).
-Deliverables:
+- Sprint Goal: Establish the project foundation, prototype core mechanics, and finalize the game's visual style.
+- Estimated Points: 70/80
+- Focus Areas:
+- Game Engine Setup (10 points): Set up the Unity, configure project settings, and import necessary assets.
+- Basic Ship Movement (20 points): Implement WASD-based movement for the spaceship, ensuring smooth and responsive controls.
+- UI Mockups (10 points): Design basic UI elements (score, lives, pause menu) using wireframes or low-fidelity mockups.
+- Art Style Exploration (20 points): Experiment with different visual styles for the game, creating concept art or mood boards for the spaceship, asteroids, diamonds, and backgrounds.
+- Initial Level Prototyping (10 points): Create a very basic level layout to test ship movement, diamond collection, and asteroid collision mechanics.
+**Additional Considerations**:
+- Begin researching and selecting appropriate audio assets for sound effects and music.
+- Start planning the technical architecture for the game (e.g., object pooling for asteroids and diamonds).
+- Deliverables:
 
-Functional Prototype: A playable prototype showcasing the basic ship movement, diamond collection, and asteroid collision mechanics.
-UI Mockups: Low-fidelity mockups or wireframes for the game's UI elements.
-Art Style Direction: A clear visual direction for the game, established through concept art or mood boards.
+- Functional Prototype: A playable prototype showcasing the basic ship movement, diamond collection, and asteroid collision mechanics.
+- UI Mockups: Low-fidelity mockups or wireframes for the game's UI elements.
+- Art Style Direction: A clear visual direction for the game, established through concept art or mood boards.
 
 
   # Sprint 2
 
-Sprint Goal: Establish core gameplay loop, level progression, and ship controls.
-Estimated Points: 60/70
-Focus Areas:
-Map Creation (150 points): Design and implement the first few levels, incorporating basic environmental elements, navigational challenges, diamond placement, and asteroid patterns.
-Ship Controls (30 points): Develop WASD-based movement controls for the ship, ensuring smooth and responsive handling.
-Diamond Collection Mechanics (10 points): Implement the logic for collecting diamonds and updating the player's score.
-Asteroid Collision Mechanics (10 points): Implement collision detection and the logic for losing lives upon asteroid impact.
-Additional Considerations:
-Start planning for VFX and sound effects to enhance gameplay.
-Consider initial UI elements for displaying score, lives, and other relevant information.
+- Sprint Goal: Establish core gameplay loop, level progression, and ship controls.
+- Estimated Points: 60/70
+- Focus Areas:
+- Map Creation (150 points): Design and implement the first few levels, incorporating basic environmental elements, navigational challenges, diamond placement, and asteroid patterns.
+- Ship Controls (30 points): Develop WASD-based movement controls for the ship, ensuring smooth and responsive handling.
+- Diamond Collection Mechanics (10 points): Implement the logic for collecting diamonds and updating the player's score.
+- Asteroid Collision Mechanics (10 points): Implement collision detection and the logic for losing lives upon asteroid impact.
+- Additional Considerations:
+- Start planning for VFX and sound effects to enhance gameplay.
+- Consider initial UI elements for displaying score, lives, and other relevant information.
 
 
 # Sprint 3
 
-Sprint Goal: Refine gameplay, add complexity, and prepare for alpha testing.
-Estimated Points: 50/70
+ - Sprint Goal: Refine gameplay, add complexity, and prepare for alpha testing.
+- Estimated Points: 50/70
 Focus Areas:
-Level Design Refinement (20 points): Iterate on existing levels, add more complex challenges (e.g., moving asteroids, different types of diamonds), and introduce power-ups or special items.
-VFX Implementation (50 points): Integrate visual effects for explosions, impacts, diamond collection, and other gameplay elements.
-Sound Design (30 points): Add sound effects and music to enhance the player experience.
-Initial Post-Processing (50 points): Begin implementing basic post-processing effects (color grading, bloom) to improve visuals.
-Additional Considerations:
-Begin internal testing to identify and address bugs and balance issues.
-Plan for additional levels or game modes for future development.
-Key Changes:
+- Level Design Refinement (20 points): Iterate on existing levels, add more complex challenges (e.g., moving asteroids, different types of diamonds), and introduce power-ups or special items.
+- VFX Implementation (50 points): Integrate visual effects for explosions, impacts, diamond collection, and other gameplay elements.
+- Sound Design (30 points): Add sound effects and music to enhance the player experience.
+- Initial Post-Processing (50 points): Begin implementing basic post-processing effects (color grading, bloom) to improve visuals.
+- Additional Considerations:
+- Begin internal testing to identify and address bugs and balance issues.
+- Plan for additional levels or game modes for future development.
+**Key Changes**:
 
 Removed enemy-related tasks (models, animations, logic) from the backlog, as the game focuses on asteroids and diamonds.
 Adjusted the estimated points for each sprint to reflect the reduced scope of work.
@@ -116,9 +116,5 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 
 
-
----
-
-# Sprint 3
 
 ---
