@@ -27,7 +27,7 @@ Stunning Visuals: Enjoy eye-catching space vistas and sparkling diamonds.
 Exciting Challenges: Dodge asteroids and collect diamonds to achieve the highest score.
 Compete with Friends: See who's the best pilot on the leaderboard!
 
-Gameplay:
+**Gameplay**:
 
 Intuitive WASD Controls: Steer your spaceship effortlessly using the WASD keys, maneuvering through asteroid fields with precision and skill.
 Diamond Frenzy: Collect as many sparkling diamonds as you can, increasing your score with each successful grab.
@@ -44,7 +44,7 @@ Space Wars is designed for adventure seekers and space enthusiasts of all ages. 
 
 # Sprint 1
 
-- Sprint Goal: Establish the project foundation, prototype core mechanics, and finalize the game's visual style.
+Sprint Goal: Establish the project foundation, prototype core mechanics, and finalize the game's visual style.
 - Estimated Points: 70/80
 - Focus Areas:
 - Game Engine Setup (10 points): Set up the Unity, configure project settings, and import necessary assets.
@@ -64,7 +64,7 @@ Space Wars is designed for adventure seekers and space enthusiasts of all ages. 
 
   # Sprint 2
 
-- Sprint Goal: Establish core gameplay loop, level progression, and ship controls.
+ Sprint Goal: Establish core gameplay loop, level progression, and ship controls.
 - Estimated Points: 60/70
 - Focus Areas:
 - Map Creation (150 points): Design and implement the first few levels, incorporating basic environmental elements, navigational challenges, diamond placement, and asteroid patterns.
@@ -78,7 +78,7 @@ Space Wars is designed for adventure seekers and space enthusiasts of all ages. 
 
 # Sprint 3
 
- - Sprint Goal: Refine gameplay, add complexity, and prepare for alpha testing.
+Sprint Goal: Refine gameplay, add complexity, and prepare for alpha testing.
 - Estimated Points: 50/70
 Focus Areas:
 - Level Design Refinement (20 points): Iterate on existing levels, add more complex challenges (e.g., moving asteroids, different types of diamonds), and introduce power-ups or special items.
@@ -107,10 +107,6 @@ Added tasks related to diamond collection and asteroid collision mechanics in Sp
 <img width="1273" alt="Ekran Resmi 2024-08-01 15 36 57" src="https://github.com/user-attachments/assets/75fb664c-f68e-433a-b818-c9f717f16cdb">
 <img width="924" alt="Ekran Resmi 2024-08-01 15 38 03" src="https://github.com/user-attachments/assets/c07c1f03-b1fb-4ab6-bf0c-dc6a0d7fac6e">
 
-
-
-- **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
