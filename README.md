@@ -88,11 +88,11 @@ Focus Areas:
 - Additional Considerations:
 - Begin internal testing to identify and address bugs and balance issues.
 - Plan for additional levels or game modes for future development.
-**Key Changes**:
+- **Key Changes**:
 
-Removed enemy-related tasks (models, animations, logic) from the backlog, as the game focuses on asteroids and diamonds.
-Adjusted the estimated points for each sprint to reflect the reduced scope of work.
-Added tasks related to diamond collection and asteroid collision mechanics in Sprint 2.
+- Removed enemy-related tasks (models, animations, logic) from the backlog, as the game focuses on asteroids and diamonds.
+- Adjusted the estimated points for each sprint to reflect the reduced scope of work.
+- Added tasks related to diamond collection and asteroid collision mechanics in Sprint 2.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir.
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
